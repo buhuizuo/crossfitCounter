@@ -1,4 +1,6 @@
 # crossfitCounter
+click this link to use!
+https://buhuizuo.github.io/crossfitCounter/dist/#/
 
 The CrossFit Counter Application allows users to track their CrossFit workouts.
 
