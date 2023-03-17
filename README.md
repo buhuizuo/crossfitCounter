@@ -2,7 +2,9 @@
 click this link to use!
 https://buhuizuo.github.io/crossfitCounter/dist/#/
 
-The CrossFit Counter Application allows users to track their CrossFit workouts.
+Not like regular timer, CrossFit Counter Application is Specially designed for CrossFit workouts recording. 
+it tracks not only time of workout, but also time of resting.
+with functional area bigger than regular timer, allow easier control.
 
 The applicaiton is built with Vue library, HTML, CSS, JavaScript, also optimized for mobile devices and is fully responsive.
 
